@@ -1,0 +1,11 @@
+{
+  "name": "sms-xpress",
+  "version": "1.0.0",
+  "description": "Api para envio de SMS por demanda",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raquel Fonseca",
+  "license": "ISC"
+}
